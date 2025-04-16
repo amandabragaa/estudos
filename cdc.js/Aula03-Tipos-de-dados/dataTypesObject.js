@@ -11,12 +11,12 @@ const fichaDaAmanda = {
 console.log(fichaDaAmanda);
 
 console.log('Nome: ' + fichaDaAmanda.nome); 
-// variável pega somente a propriedade dentro do objeto que queremos
+// nomedavariável. pega somente a propriedade dentro do objeto que queremos
 // quando se tem uma string não é soma é CONCATENAÇÃO.
 
-// Tipos Primitios const = depois que declara uma variável você não consegue alterar ela.
-// Como Objeto não é uma tipo primitivos, consegue modificar as propriedades o ojeto.
-// Não consegue reatribuir um valor de um objeto inteiro, mas pode adicionar e reemver propriedades
+// Tipos Primitivos const = depois que declara uma variável você não consegue alterar ela.
+// Como Objeto não é uma tipo primitivos, consegue modificar as propriedades o objeto.
+// Não consegue reatribuir um valor de um objeto inteiro, mas pode adicionar e remover propriedades
 
 // Adicionar Proprriedades
 fichaDaAmanda.moto = "Fan 125";
@@ -27,7 +27,7 @@ delete fichaDaAmanda.moto;
 console.log("Ficha da Amanda", fichaDaAmanda);
 
 // Imprimir a variável que deletou 
-console.log('carro ' + fichaDaAmanda.moto);
+console.log('moto ' + fichaDaAmanda.moto);
 
 // Quando você manipula um objeto ele altera todas as referência desse objeto, indepêndente da parte do código que você fez a alteração 
 // Tipos primitivos = imutaveis/ uma nova cópia 
