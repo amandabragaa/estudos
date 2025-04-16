@@ -9,5 +9,10 @@ console.log("O salário de Abril é", salarioAbril);
 
 let salarioBrutoMaio = 7000;
 // salarioBrutoMaio = salarioBrutoMaio - 2000;
-salarioBrutoMaio -= 2000
+salarioBrutoMaio -= 2000;
 console.log("O salário líquido de Maio é:", salarioBrutoMaio);
+
+let salarioJunho = 2000;
+//salarioJunho = sarioJunho * 3;
+salarioJunho *= 3;
+console.log("O salário de Junho é:", salarioJunho);

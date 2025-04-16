@@ -35,5 +35,5 @@ console.log("O número " + x + " é diferente do número " + y, x !== y);
 
 console.log("O número " + x + " é diferente do número " + z, x !== z);
 
-//desigualdade frouxa !==
+//desigualdade frouxa !=
 console.log("O número " + x + " é diferente do número " + z, x != z);
