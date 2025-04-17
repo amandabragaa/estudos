@@ -49,3 +49,47 @@ if (idadePessoa >=0 && idadePessoa <= 12) {
 }
 
 // Adição dos alert por minha conta...
+
+// ifs idependenes são uteis quando as duas condições são verdadeiras.
+const x = 20;
+
+if (x % 2 === 0) {
+    console.log(`O número ${x} é par`);
+};
+
+if (x % 5 === 0){
+    console.log(`O número ${x} é  múltiplo de 5`);
+};
+
+console.log("----------------------------------------");
+
+const diaDaSemana = 3;
+let nomeDoDia;
+
+// só trabalha com valores exatos
+switch (diaDaSemana) {
+    case 0:
+        nomeDoDia = "Dominigo";
+    break;
+    case 1:
+        nomeDoDia = "Segunda";
+    break;
+    case 2:
+        nomeDoDia = "Terça";
+    break;
+    case 3:
+        nomeDoDia = "Quarta";
+    break;
+    case 4:
+        nomeDoDia = "Quinta";
+    break;
+    case 5:
+        nomeDoDia = "Sexta";
+    break;
+    case 6:
+        nomeDoDia = "Sábado";
+    break;
+}
+
+console.log("Dia da Semana: " + nomeDoDia);
+
