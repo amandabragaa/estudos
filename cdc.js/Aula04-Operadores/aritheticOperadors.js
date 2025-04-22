@@ -26,7 +26,7 @@ console.log("O valor por pessoa é: ", custoTotalCasamento / totalConvidados);
 
 console.log("-----------------------------------------")
 
-// números parese impares (módulo)
+// números pares e impares (módulo) resto da divisão
 let numero = 10
 console.log("O resto da divisão de " + numero + " por 2 é:", numero % 2);
 console.log("O numero " + numero + " é PAR");

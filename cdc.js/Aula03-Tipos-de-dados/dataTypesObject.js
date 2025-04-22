@@ -18,7 +18,7 @@ console.log('Nome: ' + fichaDaAmanda.nome);
 // Como Objeto não é uma tipo primitivos, consegue modificar as propriedades o objeto.
 // Não consegue reatribuir um valor de um objeto inteiro, mas pode adicionar e remover propriedades
 
-// Adicionar Proprriedades
+// Adicionar Propriedades
 fichaDaAmanda.moto = "Fan 125";
 console.log('Ficha da Amanda', fichaDaAmanda);
 
