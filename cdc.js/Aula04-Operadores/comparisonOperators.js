@@ -19,7 +19,7 @@ console.log("Amanda é maior de idade?", idadeAmanda >= maiorIdade);
 console.log("Lucas é menor de idade?", idadeLucas < maiorIdade);
 
 // Operadores de comparação de igualdade == / ===
-// *evitar usar* == igualdade frouxa - coerção dos tipos  das variaveis 'converter a strring p/ tipo number' compara número + string
+// *evitar usar* == igualdade frouxa - coerção dos tipos  das variaveis 'converter a string p/ tipo number' compara número + string
 // === igualdade estrita - compara número + número
 // sempre optem pela igualdade estrita === e deesigualdade estrita !==
 
