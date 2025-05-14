@@ -13,12 +13,22 @@ const notasFinais = [
 //   }
 // }
 
-    for ()
+// // for (let aluno of notasFinais) {
+// //   if (aluno.nota >= 6){
+// //     console.log(`O aluno ${aluno.nome} está aprovado com ${aluno.nota}`)
+// //   } else {
+// //     console.log(`O aluno ${aluno.nome} está reprovado com ${aluno.nota}`)
+// //   }
+// // }
 
-
-
-
-
+// Mais usado nos dias atuais dos laços de repetições
+notasFinais.forEach((aluno) => {
+  if (aluno.nota >= 6){
+    console.log(`O aluno ${aluno.nome} está aprovado com ${aluno.nota}`)
+  } else {
+    console.log(`O aluno ${aluno.nome} está reprovado com ${aluno.nota}`)
+  }
+});
 
 
 
