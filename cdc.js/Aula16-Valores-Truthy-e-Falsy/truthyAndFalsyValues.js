@@ -37,6 +37,7 @@ nomes.forEach(nome => {
 const x = 10;
 const y = null;
 
+// Mais usado
 // if(x) {
 // 	console.log("X é uma variável truthy")
 // }
