@@ -14,11 +14,7 @@ listaAmanda2.push("Luiza");
 
 console.log('Lista da Amanda 2', listaAmanda2);
 
-console.log(" ");
-
 console.log("-----------------------------------------");
-
-console.log(" ");
 
 // Spread operators em objetos ...
 
