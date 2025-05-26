@@ -1,0 +1,19 @@
+/* seletor de elemento */
+h3 {
+    color: palegreen;
+}
+
+/* seletor de classes */
+.textoAzul {
+    color: blue;
+}
+
+.textoBolde {
+    font-weight: bold;
+}
+
+/* seletor de id */
+#textoRosa{
+    color: pink;
+}
+
