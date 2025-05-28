@@ -1,0 +1,23 @@
+h1 {
+    color: rgb(200, 35, 35, 0.5);
+}
+
+#hexadecimal {
+    color: #0000ff;
+}
+
+#hexadecimalComOpacidade {
+    color: #0000ff50;
+}
+
+#rgb {
+    color:rgb(117, 33, 173);
+}
+
+#rgba {
+    color: rgb(196, 81, 14);
+}
+
+section {
+    background-color: rgb(204, 204, 204);
+}
