@@ -20,4 +20,23 @@ h1 {
 
 section {
     background-color: rgb(204, 204, 204);
+    font-size: 20px;
+}
+
+#porcentagem{
+    font-size: 50%;
+}
+
+#em{
+    font-size: 2em; /*2x  tamanho da font-size do elemento pai*/
+}
+
+#rem{
+    font-size: 2rem; /*1x o tamanho do elemento raiz HTML*/
+}
+
+#caixa{
+    background-color: #ffc0cb;
+    height: 50vh;
+    width: 100vw;
 }
