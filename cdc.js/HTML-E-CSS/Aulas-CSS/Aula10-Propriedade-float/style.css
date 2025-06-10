@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.fotoAmanda {
+    height: 200px;
+    float: left;
+    margin: 0 20px 10px 0;
+}
+
+.fotoAmanda2 {
+    height: 200px;
+    float: right;
+    margin: 10px 0 0 20px;
+}
+
+.noticias {
+    overflow: auto;
+}
+
+.icone {
+    height: 24px;
+    padding-top: 10px;
+}
+
+nav{
+    background-color: #cecece;
+    padding: 0 40px;
+    height: 50px;
+}
+
+ul {
+    float: right;
+
+    li {
+        display: inline;
+        line-height: 50px;
+        margin: 5px;
+    }
+}
