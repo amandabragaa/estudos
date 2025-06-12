@@ -1,0 +1,13 @@
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #e7f700;
+    margin: 0;
+}
+
+#titulo {
+    font-family: sans-serif;
+    color:#ab10b9;
+    }
