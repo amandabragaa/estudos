@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    font-family: sans-serif;
+}
+
+h1 {
+    margin: 0;
+    text-transform: uppercase;
+}
+
+.container {
+    display: flex;
+    border: 3px solid #000000;
+    flex-direction: row; /*row-reverse, column, column-reverse*/
+}
+
+.item {
+    background-color: rgb(225, 99, 99);
+    text-transform: uppercase;
+    font-weight: bold;
+    margin: 10px;
+}
